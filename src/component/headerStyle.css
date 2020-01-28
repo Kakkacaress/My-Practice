@@ -1,0 +1,42 @@
+/*HEADER COMPONENT STYLING*/
+#header {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 32.10px;
+    margin-top: 10px;
+    align-items: center;
+    color: whitesmoke
+}
+
+#ul {
+    margin-left: auto;
+    margin-right: 40px;
+    display: flex;
+    color: greenyellow;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    ;
+}
+
+#logoDiv {
+    position: fixed;
+    margin-left: 100px;
+    font-size-adjust: initial;
+    font-family: Consolas,
+        Monaco,
+        'Andale Mono',
+        'Ubuntu Mono',
+        monospace;
+    ;
+    font-size: larger;
+    font-size: 2em;
+    font-weight: bolder;
+    /* color: rgb(2, 2, 27); */
+    text-shadow: rgb(159, 236, 43) 2px 2px 2px;
+
+}
+
+li {
+    margin-left: 10px;
+    list-style: none;
+
+}
