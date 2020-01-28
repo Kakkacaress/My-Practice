@@ -19,6 +19,8 @@ class myWeb extends Component {
           i appreciate React so much infact its my favorite Library
           </p>
 
+          <p>this is a new paragraph pls i hope you will see this one</p>
+
         </code>
       </div>
     );
