@@ -15,6 +15,10 @@ class myWeb extends Component {
             li4={"/ABOUT"}
             li5={"/SIDEBAR"}
           />
+          <section>
+            <h2>kayode is our admin</h2>
+            <h4>learnFactory</h4>
+          </section>
         </code>
       </div>
     );
